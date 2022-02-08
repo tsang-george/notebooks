@@ -1,0 +1,1987 @@
+id,pokedex_number,abilities
+1,1,Overgrow
+2,1,Chlorophyll
+3,2,Overgrow
+4,2,Chlorophyll
+5,3,Overgrow
+6,3,Chlorophyll
+7,4,Blaze
+8,4,Solar Power
+9,5,Blaze
+10,5,Solar Power
+11,6,Blaze
+12,6,Solar Power
+13,7,Torrent
+14,7,Rain Dish
+15,8,Torrent
+16,8,Rain Dish
+17,9,Torrent
+18,9,Rain Dish
+19,10,Shield Dust
+20,10,Run Away
+21,11,Shed Skin
+22,12,Compoundeyes
+23,12,Tinted Lens
+24,13,Shield Dust
+25,13,Run Away
+26,14,Shed Skin
+27,15,Swarm
+28,15,Sniper
+29,16,Keen Eye
+30,16,Tangled Feet
+31,16,Big Pecks
+32,17,Keen Eye
+33,17,Tangled Feet
+34,17,Big Pecks
+35,18,Keen Eye
+36,18,Tangled Feet
+37,18,Big Pecks
+38,19,Run Away
+39,19,Guts
+40,19,Hustle
+41,19,Gluttony
+42,19,Hustle
+43,19,Thick Fat
+44,20,Run Away
+45,20,Guts
+46,20,Hustle
+47,20,Gluttony
+48,20,Hustle
+49,20,Thick Fat
+50,21,Keen Eye
+51,21,Sniper
+52,22,Keen Eye
+53,22,Sniper
+54,23,Intimidate
+55,23,Shed Skin
+56,23,Unnerve
+57,24,Intimidate
+58,24,Shed Skin
+59,24,Unnerve
+60,25,Static
+61,25,Lightningrod
+62,26,Static
+63,26,Lightningrod
+64,26,Surge Surfer
+65,27,Sand Veil
+66,27,Sand Rush
+67,27,Snow Cloak
+68,27,Slush Rush
+69,28,Sand Veil
+70,28,Sand Rush
+71,28,Snow Cloak
+72,28,Slush Rush
+73,29,Poison Point
+74,29,Rivalry
+75,29,Hustle
+76,30,Poison Point
+77,30,Rivalry
+78,30,Hustle
+79,31,Poison Point
+80,31,Rivalry
+81,31,Sheer Force
+82,32,Poison Point
+83,32,Rivalry
+84,32,Hustle
+85,33,Poison Point
+86,33,Rivalry
+87,33,Hustle
+88,34,Poison Point
+89,34,Rivalry
+90,34,Sheer Force
+91,35,Cute Charm
+92,35,Magic Guard
+93,35,Friend Guard
+94,36,Cute Charm
+95,36,Magic Guard
+96,36,Unaware
+97,37,Flash Fire
+98,37,Drought
+99,37,Snow Cloak
+100,37,Snow Warning
+101,38,Flash Fire
+102,38,Drought
+103,38,Snow Cloak
+104,38,Snow Warning
+105,39,Cute Charm
+106,39,Competitive
+107,39,Friend Guard
+108,40,Cute Charm
+109,40,Competitive
+110,40,Frisk
+111,41,Inner Focus
+112,41,Infiltrator
+113,42,Inner Focus
+114,42,Infiltrator
+115,43,Chlorophyll
+116,43,Run Away
+117,44,Chlorophyll
+118,44,Stench
+119,45,Chlorophyll
+120,45,Effect Spore
+121,46,Effect Spore
+122,46,Dry Skin
+123,46,Damp
+124,47,Effect Spore
+125,47,Dry Skin
+126,47,Damp
+127,48,Compoundeyes
+128,48,Tinted Lens
+129,48,Run Away
+130,49,Shield Dust
+131,49,Tinted Lens
+132,49,Wonder Skin 
+133,50,Sand Veil
+134,50,Arena Trap
+135,50,Sand Force
+136,50,Sand Veil
+137,50,Tangling Hair
+138,50,Sand Force
+139,51,Sand Veil
+140,51,Arena Trap
+141,51,Sand Force
+142,51,Sand Veil
+143,51,Tangling Hair
+144,51,Sand Force
+145,52,Pickup
+146,52,Technician
+147,52,Unnerve
+148,52,Pickup
+149,52,Technician
+150,52,Rattled
+151,53,Limber
+152,53,Technician
+153,53,Unnerve
+154,53,Fur Coat
+155,53,Technician
+156,53,Rattled
+157,54,Damp
+158,54,Cloud Nine
+159,54,Swift Swim
+160,55,Damp
+161,55,Cloud Nine
+162,55,Swift Swim
+163,56,Vital Spirit
+164,56,Anger Point
+165,56,Defiant
+166,57,Vital Spirit
+167,57,Anger Point
+168,57,Defiant
+169,58,Intimidate
+170,58,Flash Fire
+171,58,Justified
+172,59,Intimidate
+173,59,Flash Fire
+174,59,Justified
+175,60,Water Absorb
+176,60,Damp
+177,60,Swift Swim
+178,61,Water Absorb
+179,61,Damp
+180,61,Swift Swim
+181,62,Water Absorb
+182,62,Damp
+183,62,Swift Swim
+184,63,Synchronize
+185,63,Inner Focus
+186,63,Magic Guard
+187,64,Synchronize
+188,64,Inner Focus
+189,64,Magic Guard
+190,65,Synchronize
+191,65,Inner Focus
+192,65,Magic Guard
+193,66,Guts
+194,66,No Guard
+195,66,Steadfast
+196,67,Guts
+197,67,No Guard
+198,67,Steadfast
+199,68,Guts
+200,68,No Guard
+201,68,Steadfast
+202,69,Chlorophyll
+203,69,Gluttony
+204,70,Chlorophyll
+205,70,Gluttony
+206,71,Chlorophyll
+207,71,Gluttony
+208,72,Clear Body
+209,72,Liquid Ooze
+210,72,Rain Dish
+211,73,Clear Body
+212,73,Liquid Ooze
+213,73,Rain Dish
+214,74,Rock Head
+215,74,Sturdy
+216,74,Sand Veil
+217,74,Magnet Pull
+218,74,Sturdy
+219,74,Galvanize
+220,75,Rock Head
+221,75,Sturdy
+222,75,Sand Veil
+223,75,Magnet Pull
+224,75,Sturdy
+225,75,Galvanize
+226,76,Rock Head
+227,76,Sturdy
+228,76,Sand Veil
+229,76,Magnet Pull
+230,76,Sturdy
+231,76,Galvanize
+232,77,Run Away
+233,77,Flash Fire
+234,77,Flame Body
+235,78,Run Away
+236,78,Flash Fire
+237,78,Flame Body
+238,79,Oblivious
+239,79,Own Tempo
+240,79,Regenerator
+241,80,Oblivious
+242,80,Own Tempo
+243,80,Regenerator
+244,81,Magnet Pull
+245,81,Sturdy
+246,81,Analytic
+247,82,Magnet Pull
+248,82,Sturdy
+249,82,Analytic
+250,83,Keen Eye
+251,83,Inner Focus
+252,83,Defiant
+253,84,Run Away
+254,84,Early Bird
+255,84,Tangled Feet
+256,85,Run Away
+257,85,Early Bird
+258,85,Tangled Feet
+259,86,Thick Fat
+260,86,Hydration
+261,86,Ice Body
+262,87,Thick Fat
+263,87,Hydration
+264,87,Ice Body
+265,88,Stench
+266,88,Sticky Hold
+267,88,Poison Touch
+268,88,Poison Touch
+269,88,Gluttony
+270,88,Power of Alchemy
+271,89,Stench
+272,89,Sticky Hold
+273,89,Poison Touch
+274,89,Poison Touch
+275,89,Gluttony
+276,89,Power of Alchemy
+277,90,Shell Armor
+278,90,Skill Link
+279,90,Overcoat
+280,91,Shell Armor
+281,91,Skill Link
+282,91,Overcoat
+283,92,Levitate
+284,93,Levitate
+285,94,Cursed Body
+286,95,Rock Head
+287,95,Sturdy
+288,95,Weak Armor
+289,96,Insomnia
+290,96,Forewarn
+291,96,Inner Focus
+292,97,Insomnia
+293,97,Forewarn
+294,97,Inner Focus
+295,98,Hyper Cutter
+296,98,Shell Armor
+297,98,Sheer Force
+298,99,Hyper Cutter
+299,99,Shell Armor
+300,99,Sheer Force
+301,100,Soundproof
+302,100,Static
+303,100,Aftermath
+304,101,Soundproof
+305,101,Static
+306,101,Aftermath
+307,102,Chlorophyll
+308,102,Harvest
+309,103,Chlorophyll
+310,103,Harvest
+311,103,Frisk
+312,103,Harvest
+313,104,Rock Head
+314,104,Lightningrod
+315,104,Battle Armor
+316,105,Rock Head
+317,105,Lightningrod
+318,105,Battle Armor
+319,105,Cursed Body
+320,105,Lightningrod
+321,105,Rock Head
+322,106,Limber
+323,106,Reckless
+324,106,Unburden
+325,107,Keen Eye
+326,107,Iron Fist
+327,107,Inner Focus
+328,108,Own Tempo
+329,108,Oblivious
+330,108,Cloud Nine
+331,109,Levitate
+332,110,Levitate
+333,111,Lightningrod
+334,111,Rock Head
+335,111,Reckless
+336,112,Lightningrod
+337,112,Rock Head
+338,112,Reckless
+339,113,Natural Cure
+340,113,Serene Grace
+341,113,Healer
+342,114,Chlorophyll
+343,114,Leaf Guard
+344,114,Regenerator
+345,115,Early Bird
+346,115,Scrappy
+347,115,Inner Focus
+348,116,Swift Swim
+349,116,Sniper
+350,116,Damp
+351,117,Poison Point
+352,117,Sniper
+353,117,Damp
+354,118,Swift Swim
+355,118,Water Veil
+356,118,Lightningrod
+357,119,Swift Swim
+358,119,Water Veil
+359,119,Lightningrod
+360,120,Illuminate
+361,120,Natural Cure
+362,120,Analytic
+363,121,Illuminate
+364,121,Natural Cure
+365,121,Analytic
+366,122,Soundproof
+367,122,Filter
+368,122,Technician
+369,123,Swarm
+370,123,Technician
+371,123,Steadfast
+372,124,Oblivious
+373,124,Forewarn
+374,124,Dry Skin
+375,125,Static
+376,125,Vital Spirit
+377,126,Flame Body
+378,126,Vital Spirit
+379,127,Hyper Cutter
+380,127,Mold Breaker
+381,127,Moxie
+382,128,Intimidate
+383,128,Anger Point
+384,128,Sheer Force
+385,129,Swift Swim
+386,129,Rattled
+387,130,Intimidate
+388,130,Moxie
+389,131,Water Absorb
+390,131,Shell Armor
+391,131,Hydration
+392,132,Limber
+393,132,Imposter
+394,133,Run Away
+395,133,Adaptability
+396,133,Anticipation
+397,134,Water Absorb
+398,134,Hydration
+399,135,Volt Absorb
+400,135,Quick Feet
+401,136,Flash Fire
+402,136,Guts
+403,137,Trace
+404,137,Download
+405,137,Analytic
+406,138,Swift Swim
+407,138,Shell Armor
+408,138,Weak Armor
+409,139,Swift Swim
+410,139,Shell Armor
+411,139,Weak Armor
+412,140,Swift Swim
+413,140,Battle Armor
+414,140,Weak Armor
+415,141,Swift Swim
+416,141,Battle Armor
+417,141,Weak Armor
+418,142,Rock Head
+419,142,Pressure
+420,142,Unnerve
+421,143,Immunity
+422,143,Thick Fat
+423,143,Gluttony
+424,144,Pressure
+425,144,Snow Cloak
+426,145,Pressure
+427,145,Static
+428,146,Pressure
+429,146,Flame Body
+430,147,Shed Skin
+431,147,Marvel Scale
+432,148,Shed Skin
+433,148,Marvel Scale
+434,149,Inner Focus
+435,149,Multiscale
+436,150,Pressure
+437,150,Unnerve
+438,151,Synchronize
+439,152,Overgrow
+440,152,Leaf Guard
+441,153,Overgrow
+442,153,Leaf Guard
+443,154,Overgrow
+444,154,Leaf Guard
+445,155,Blaze
+446,155,Flash Fire
+447,156,Blaze
+448,156,Flash Fire
+449,157,Blaze
+450,157,Flash Fire
+451,158,Torrent
+452,158,Sheer Force
+453,159,Torrent
+454,159,Sheer Force
+455,160,Torrent
+456,160,Sheer Force
+457,161,Run Away
+458,161,Keen Eye
+459,161,Frisk
+460,162,Run Away
+461,162,Keen Eye
+462,162,Frisk
+463,163,Insomnia
+464,163,Keen Eye
+465,163,Tinted Lens
+466,164,Insomnia
+467,164,Keen Eye
+468,164,Tinted Lens
+469,165,Swarm
+470,165,Early Bird
+471,165,Rattled
+472,166,Swarm
+473,166,Early Bird
+474,166,Iron Fist
+475,167,Swarm
+476,167,Insomnia
+477,167,Sniper
+478,168,Swarm
+479,168,Insomnia
+480,168,Sniper
+481,169,Inner Focus
+482,169,Infiltrator
+483,170,Volt Absorb
+484,170,Illuminate
+485,170,Water Absorb
+486,171,Volt Absorb
+487,171,Illuminate
+488,171,Water Absorb
+489,172,Static
+490,172,Lightningrod
+491,173,Cute Charm
+492,173,Magic Guard
+493,173,Friend Guard
+494,174,Cute Charm
+495,174,Competitive
+496,174,Friend Guard
+497,175,Hustle
+498,175,Serene Grace
+499,175,Super Luck
+500,176,Hustle
+501,176,Serene Grace
+502,176,Super Luck
+503,177,Synchronize
+504,177,Early Bird
+505,177,Magic Bounce
+506,178,Synchronize
+507,178,Early Bird
+508,178,Magic Bounce
+509,179,Static
+510,179,Plus
+511,180,Static
+512,180,Plus
+513,181,Static
+514,181,Plus
+515,182,Chlorophyll
+516,182,Healer
+517,183,Thick Fat
+518,183,Huge Power
+519,183,Sap Sipper
+520,184,Thick Fat
+521,184,Huge Power
+522,184,Sap Sipper
+523,185,Sturdy
+524,185,Rock Head
+525,185,Rattled
+526,186,Water Absorb
+527,186,Damp
+528,186,Drizzle
+529,187,Chlorophyll
+530,187,Leaf Guard
+531,187,Infiltrator
+532,188,Chlorophyll
+533,188,Leaf Guard
+534,188,Infiltrator
+535,189,Chlorophyll
+536,189,Leaf Guard
+537,189,Infiltrator
+538,190,Run Away
+539,190,Pickup
+540,190,Skill Link
+541,191,Chlorophyll
+542,191,Solar Power
+543,191,Early Bird
+544,192,Chlorophyll
+545,192,Solar Power
+546,192,Early Bird
+547,193,Speed Boost
+548,193,Compoundeyes
+549,193,Frisk
+550,194,Damp
+551,194,Water Absorb
+552,194,Unaware
+553,195,Damp
+554,195,Water Absorb
+555,195,Unaware
+556,196,Synchronize
+557,196,Magic Bounce
+558,197,Synchronize
+559,197,Inner Focus
+560,198,Insomnia
+561,198,Super Luck
+562,198,Prankster
+563,199,Oblivious
+564,199,Own Tempo
+565,199,Regenerator
+566,200,Levitate
+567,201,Levitate
+568,202,Shadow Tag
+569,202,Telepathy
+570,203,Inner Focus
+571,203,Early Bird
+572,203,Sap Sipper
+573,204,Sturdy
+574,204,Overcoat
+575,205,Sturdy
+576,205,Overcoat
+577,206,Serene Grace
+578,206,Run Away
+579,206,Rattled
+580,207,Hyper Cutter
+581,207,Sand Veil
+582,207,Immunity
+583,208,Rock Head
+584,208,Sturdy
+585,208,Sheer Force
+586,209,Intimidate
+587,209,Run Away
+588,209,Rattled
+589,210,Intimidate
+590,210,Quick Feet
+591,210,Rattled
+592,211,Poison Point
+593,211,Swift Swim
+594,211,Intimidate
+595,212,Swarm
+596,212,Technician
+597,212,Light Metal
+598,213,Sturdy
+599,213,Gluttony
+600,213,Contrary
+601,214,Swarm
+602,214,Guts
+603,214,Moxie
+604,215,Inner Focus
+605,215,Keen Eye
+606,215,Pickpocket
+607,216,Pickup
+608,216,Quick Feet
+609,216,Honey Gather
+610,217,Guts
+611,217,Quick Feet
+612,217,Unnerve
+613,218,Magma Armor
+614,218,Flame Body
+615,218,Weak Armor
+616,219,Magma Armor
+617,219,Flame Body
+618,219,Weak Armor
+619,220,Oblivious
+620,220,Snow Cloak
+621,220,Thick Fat
+622,221,Oblivious
+623,221,Snow Cloak
+624,221,Thick Fat
+625,222,Hustle
+626,222,Natural Cure
+627,222,Regenerator
+628,223,Hustle
+629,223,Sniper
+630,223,Moody
+631,224,Suction Cups
+632,224,Sniper
+633,224,Moody
+634,225,Vital Spirit
+635,225,Hustle
+636,225,Insomnia
+637,226,Swift Swim
+638,226,Water Absorb
+639,226,Water Veil
+640,227,Keen Eye
+641,227,Sturdy
+642,227,Weak Armor
+643,228,Early Bird
+644,228,Flash Fire
+645,228,Unnerve
+646,229,Early Bird
+647,229,Flash Fire
+648,229,Unnerve
+649,230,Swift Swim
+650,230,Sniper
+651,230,Damp
+652,231,Pickup
+653,231,Sand Veil
+654,232,Sturdy
+655,232,Sand Veil
+656,233,Trace
+657,233,Download
+658,233,Analytic
+659,234,Intimidate
+660,234,Frisk
+661,234,Sap Sipper
+662,235,Own Tempo
+663,235,Technician
+664,235,Moody
+665,236,Guts
+666,236,Steadfast
+667,236,Vital Spirit
+668,237,Intimidate
+669,237,Technician
+670,237,Steadfast
+671,238,Oblivious
+672,238,Forewarn
+673,238,Hydration
+674,239,Static
+675,239,Vital Spirit
+676,240,Flame Body
+677,240,Vital Spirit
+678,241,Thick Fat
+679,241,Scrappy
+680,241,Sap Sipper
+681,242,Natural Cure
+682,242,Serene Grace
+683,242,Healer
+684,243,Pressure
+685,243,Inner Focus
+686,244,Pressure
+687,244,Inner Focus
+688,245,Pressure
+689,245,Inner Focus
+690,246,Guts
+691,246,Sand Veil
+692,247,Shed Skin
+693,248,Sand Stream
+694,248,Unnerve
+695,249,Pressure
+696,249,Multiscale
+697,250,Pressure
+698,250,Regenerator
+699,251,Natural Cure
+700,252,Overgrow
+701,252,Unburden
+702,253,Overgrow
+703,253,Unburden
+704,254,Overgrow
+705,254,Unburden
+706,255,Blaze
+707,255,Speed Boost
+708,256,Blaze
+709,256,Speed Boost
+710,257,Blaze
+711,257,Speed Boost
+712,258,Torrent
+713,258,Damp
+714,259,Torrent
+715,259,Damp
+716,260,Torrent
+717,260,Damp
+718,261,Run Away
+719,261,Quick Feet
+720,261,Rattled
+721,262,Intimidate
+722,262,Quick Feet
+723,262,Moxie
+724,263,Pickup
+725,263,Gluttony
+726,263,Quick Feet
+727,264,Pickup
+728,264,Gluttony
+729,264,Quick Feet
+730,265,Shield Dust
+731,265,Run Away
+732,266,Shed Skin
+733,267,Swarm
+734,267,Rivalry
+735,268,Shed Skin
+736,269,Shield Dust
+737,269,Compoundeyes
+738,270,Swift Swim
+739,270,Rain Dish
+740,270,Own Tempo
+741,271,Swift Swim
+742,271,Rain Dish
+743,271,Own Tempo
+744,272,Swift Swim
+745,272,Rain Dish
+746,272,Own Tempo
+747,273,Chlorophyll
+748,273,Early Bird
+749,273,Pickpocket
+750,274,Chlorophyll
+751,274,Early Bird
+752,274,Pickpocket
+753,275,Chlorophyll
+754,275,Early Bird
+755,275,Pickpocket
+756,276,Guts
+757,276,Scrappy
+758,277,Guts
+759,277,Scrappy
+760,278,Keen Eye
+761,278,Hydration
+762,278,Rain Dish
+763,279,Keen Eye
+764,279,Drizzle
+765,279,Rain Dish
+766,280,Synchronize
+767,280,Trace
+768,280,Telepathy
+769,281,Synchronize
+770,281,Trace
+771,281,Telepathy
+772,282,Synchronize
+773,282,Trace
+774,282,Telepathy
+775,283,Swift Swim
+776,283,Rain Dish
+777,284,Intimidate
+778,284,Unnerve
+779,285,Effect Spore
+780,285,Poison Heal
+781,285,Quick Feet
+782,286,Effect Spore
+783,286,Poison Heal
+784,286,Technician
+785,287,Truant
+786,288,Vital Spirit
+787,289,Truant
+788,290,Compoundeyes
+789,290,Run Away
+790,291,Speed Boost
+791,291,Infiltrator
+792,292,Wonder Guard
+793,293,Soundproof
+794,293,Rattled
+795,294,Soundproof
+796,294,Scrappy
+797,295,Soundproof
+798,295,Scrappy
+799,296,Thick Fat
+800,296,Guts
+801,296,Sheer Force
+802,297,Thick Fat
+803,297,Guts
+804,297,Sheer Force
+805,298,Thick Fat
+806,298,Huge Power
+807,298,Sap Sipper
+808,299,Sturdy
+809,299,Magnet Pull
+810,299,Sand Force
+811,300,Cute Charm
+812,300,Normalize
+813,300,Wonder Skin 
+814,301,Cute Charm
+815,301,Normalize
+816,301,Wonder Skin 
+817,302,Keen Eye
+818,302,Stall
+819,302,Prankster
+820,303,Hyper Cutter
+821,303,Intimidate
+822,303,Sheer Force
+823,304,Sturdy
+824,304,Rock Head
+825,304,Heavy Metal
+826,305,Sturdy
+827,305,Rock Head
+828,305,Heavy Metal
+829,306,Sturdy
+830,306,Rock Head
+831,306,Heavy Metal
+832,307,Pure Power
+833,307,Telepathy
+834,308,Pure Power
+835,308,Telepathy
+836,309,Static
+837,309,Lightningrod
+838,309,Minus
+839,310,Static
+840,310,Lightningrod
+841,310,Minus
+842,311,Plus
+843,311,Lightningrod
+844,312,Minus
+845,312,Volt Absorb
+846,313,Illuminate
+847,313,Swarm
+848,313,Prankster
+849,314,Oblivious
+850,314,Tinted Lens
+851,314,Prankster
+852,315,Natural Cure
+853,315,Poison Point
+854,315,Leaf Guard
+855,316,Liquid Ooze
+856,316,Sticky Hold
+857,316,Gluttony
+858,317,Liquid Ooze
+859,317,Sticky Hold
+860,317,Gluttony
+861,318,Rough Skin
+862,318,Speed Boost
+863,319,Rough Skin
+864,319,Speed Boost
+865,320,Water Veil
+866,320,Oblivious
+867,320,Pressure
+868,321,Water Veil
+869,321,Oblivious
+870,321,Pressure
+871,322,Oblivious
+872,322,Simple
+873,322,Own Tempo
+874,323,Magma Armor
+875,323,Solid Rock
+876,323,Anger Point
+877,324,White Smoke
+878,324,Drought
+879,324,Shell Armor
+880,325,Thick Fat
+881,325,Own Tempo
+882,325,Gluttony
+883,326,Thick Fat
+884,326,Own Tempo
+885,326,Gluttony
+886,327,Own Tempo
+887,327,Tangled Feet
+888,327,Contrary
+889,328,Hyper Cutter
+890,328,Arena Trap
+891,328,Sheer Force
+892,329,Levitate
+893,330,Levitate
+894,331,Sand Veil
+895,331,Water Absorb
+896,332,Sand Veil
+897,332,Water Absorb
+898,333,Natural Cure
+899,333,Cloud Nine
+900,334,Natural Cure
+901,334,Cloud Nine
+902,335,Immunity
+903,335,Toxic Boost
+904,336,Shed Skin
+905,336,Infiltrator
+906,337,Levitate
+907,338,Levitate
+908,339,Oblivious
+909,339,Anticipation
+910,339,Hydration
+911,340,Oblivious
+912,340,Anticipation
+913,340,Hydration
+914,341,Hyper Cutter
+915,341,Shell Armor
+916,341,Adaptability
+917,342,Hyper Cutter
+918,342,Shell Armor
+919,342,Adaptability
+920,343,Levitate
+921,344,Levitate
+922,345,Suction Cups
+923,345,Storm Drain
+924,346,Suction Cups
+925,346,Storm Drain
+926,347,Battle Armor
+927,347,Swift Swim
+928,348,Battle Armor
+929,348,Swift Swim
+930,349,Swift Swim
+931,349,Oblivious
+932,349,Adaptability
+933,350,Marvel Scale
+934,350,Competitive
+935,350,Cute Charm
+936,351,Forecast
+937,352,Color Change
+938,352,Protean
+939,353,Insomnia
+940,353,Frisk
+941,353,Cursed Body
+942,354,Insomnia
+943,354,Frisk
+944,354,Cursed Body
+945,355,Levitate
+946,355,Frisk
+947,356,Pressure
+948,356,Frisk
+949,357,Chlorophyll
+950,357,Solar Power
+951,357,Harvest
+952,358,Levitate
+953,359,Pressure
+954,359,Super Luck
+955,359,Justified
+956,360,Shadow Tag
+957,360,Telepathy
+958,361,Inner Focus
+959,361,Ice Body
+960,361,Moody
+961,362,Inner Focus
+962,362,Ice Body
+963,362,Moody
+964,363,Thick Fat
+965,363,Ice Body
+966,363,Oblivious
+967,364,Thick Fat
+968,364,Ice Body
+969,364,Oblivious
+970,365,Thick Fat
+971,365,Ice Body
+972,365,Oblivious
+973,366,Shell Armor
+974,366,Rattled
+975,367,Swift Swim
+976,367,Water Veil
+977,368,Swift Swim
+978,368,Hydration
+979,369,Swift Swim
+980,369,Rock Head
+981,369,Sturdy
+982,370,Swift Swim
+983,370,Hydration
+984,371,Rock Head
+985,371,Sheer Force
+986,372,Rock Head
+987,372,Overcoat
+988,373,Intimidate
+989,373,Moxie
+990,374,Clear Body
+991,374,Light Metal
+992,375,Clear Body
+993,375,Light Metal
+994,376,Clear Body
+995,376,Light Metal
+996,377,Clear Body
+997,377,Sturdy
+998,378,Clear Body
+999,378,Ice Body
+1000,379,Clear Body
+1001,379,Light Metal
+1002,380,Levitate
+1003,381,Levitate
+1004,382,Drizzle
+1005,383,Drought
+1006,384,Air Lock
+1007,385,Serene Grace
+1008,386,Pressure
+1009,387,Overgrow
+1010,387,Shell Armor
+1011,388,Overgrow
+1012,388,Shell Armor
+1013,389,Overgrow
+1014,389,Shell Armor
+1015,390,Blaze
+1016,390,Iron Fist
+1017,391,Blaze
+1018,391,Iron Fist
+1019,392,Blaze
+1020,392,Iron Fist
+1021,393,Torrent
+1022,393,Defiant
+1023,394,Torrent
+1024,394,Defiant
+1025,395,Torrent
+1026,395,Defiant
+1027,396,Keen Eye
+1028,396,Reckless
+1029,397,Intimidate
+1030,397,Reckless
+1031,398,Intimidate
+1032,398,Reckless
+1033,399,Simple
+1034,399,Unaware
+1035,399,Moody
+1036,400,Simple
+1037,400,Unaware
+1038,400,Moody
+1039,401,Shed Skin
+1040,401,Run Away
+1041,402,Swarm
+1042,402,Technician
+1043,403,Rivalry
+1044,403,Intimidate
+1045,403,Guts
+1046,404,Rivalry
+1047,404,Intimidate
+1048,404,Guts
+1049,405,Rivalry
+1050,405,Intimidate
+1051,405,Guts
+1052,406,Natural Cure
+1053,406,Poison Point
+1054,406,Leaf Guard
+1055,407,Natural Cure
+1056,407,Poison Point
+1057,407,Technician
+1058,408,Mold Breaker
+1059,408,Sheer Force
+1060,409,Mold Breaker
+1061,409,Sheer Force
+1062,410,Sturdy
+1063,410,Soundproof
+1064,411,Sturdy
+1065,411,Soundproof
+1066,412,Shed Skin
+1067,412,Overcoat
+1068,413,Anticipation
+1069,413,Overcoat
+1070,414,Swarm
+1071,414,Tinted Lens
+1072,415,Honey Gather
+1073,415,Hustle
+1074,416,Pressure
+1075,416,Unnerve
+1076,417,Run Away
+1077,417,Pickup
+1078,417,Volt Absorb
+1079,418,Swift Swim
+1080,418,Water Veil
+1081,419,Swift Swim
+1082,419,Water Veil
+1083,420,Chlorophyll
+1084,421,Flower Gift
+1085,422,Sticky Hold
+1086,422,Storm Drain
+1087,422,Sand Force
+1088,423,Sticky Hold
+1089,423,Storm Drain
+1090,423,Sand Force
+1091,424,Technician
+1092,424,Pickup
+1093,424,Skill Link
+1094,425,Aftermath
+1095,425,Unburden
+1096,425,Flare Boost
+1097,426,Aftermath
+1098,426,Unburden
+1099,426,Flare Boost
+1100,427,Run Away
+1101,427,Klutz
+1102,427,Limber
+1103,428,Cute Charm
+1104,428,Klutz
+1105,428,Limber
+1106,429,Levitate
+1107,430,Insomnia
+1108,430,Super Luck
+1109,430,Moxie
+1110,431,Limber
+1111,431,Own Tempo
+1112,431,Keen Eye
+1113,432,Thick Fat
+1114,432,Own Tempo
+1115,432,Defiant
+1116,433,Levitate
+1117,434,Stench
+1118,434,Aftermath
+1119,434,Keen Eye
+1120,435,Stench
+1121,435,Aftermath
+1122,435,Keen Eye
+1123,436,Levitate
+1124,436,Heatproof
+1125,436,Heavy Metal
+1126,437,Levitate
+1127,437,Heatproof
+1128,437,Heavy Metal
+1129,438,Sturdy
+1130,438,Rock Head
+1131,438,Rattled
+1132,439,Soundproof
+1133,439,Filter
+1134,439,Technician
+1135,440,Natural Cure
+1136,440,Serene Grace
+1137,440,Friend Guard
+1138,441,Keen Eye
+1139,441,Tangled Feet
+1140,441,Big Pecks
+1141,442,Pressure
+1142,442,Infiltrator
+1143,443,Sand Veil
+1144,443,Rough Skin
+1145,444,Sand Veil
+1146,444,Rough Skin
+1147,445,Sand Veil
+1148,445,Rough Skin
+1149,446,Pickup
+1150,446,Thick Fat
+1151,446,Gluttony
+1152,447,Steadfast
+1153,447,Inner Focus
+1154,447,Prankster
+1155,448,Steadfast
+1156,448,Inner Focus
+1157,448,Justified
+1158,449,Sand Stream
+1159,449,Sand Force
+1160,450,Sand Stream
+1161,450,Sand Force
+1162,451,Battle Armor
+1163,451,Sniper
+1164,451,Keen Eye
+1165,452,Battle Armor
+1166,452,Sniper
+1167,452,Keen Eye
+1168,453,Anticipation
+1169,453,Dry Skin
+1170,453,Poison Touch
+1171,454,Anticipation
+1172,454,Dry Skin
+1173,454,Poison Touch
+1174,455,Levitate
+1175,456,Swift Swim
+1176,456,Storm Drain
+1177,456,Water Veil
+1178,457,Swift Swim
+1179,457,Storm Drain
+1180,457,Water Veil
+1181,458,Swift Swim
+1182,458,Water Absorb
+1183,458,Water Veil
+1184,459,Snow Warning
+1185,459,Soundproof
+1186,460,Snow Warning
+1187,460,Soundproof
+1188,461,Pressure
+1189,461,Pickpocket
+1190,462,Magnet Pull
+1191,462,Sturdy
+1192,462,Analytic
+1193,463,Own Tempo
+1194,463,Oblivious
+1195,463,Cloud Nine
+1196,464,Lightningrod
+1197,464,Solid Rock
+1198,464,Reckless
+1199,465,Chlorophyll
+1200,465,Leaf Guard
+1201,465,Regenerator
+1202,466,Motor Drive
+1203,466,Vital Spirit
+1204,467,Flame Body
+1205,467,Vital Spirit
+1206,468,Hustle
+1207,468,Serene Grace
+1208,468,Super Luck
+1209,469,Speed Boost
+1210,469,Tinted Lens
+1211,469,Frisk
+1212,470,Leaf Guard
+1213,470,Chlorophyll
+1214,471,Snow Cloak
+1215,471,Ice Body
+1216,472,Hyper Cutter
+1217,472,Sand Veil
+1218,472,Poison Heal
+1219,473,Oblivious
+1220,473,Snow Cloak
+1221,473,Thick Fat
+1222,474,Adaptability
+1223,474,Download
+1224,474,Analytic
+1225,475,Steadfast
+1226,475,Justified
+1227,476,Sturdy
+1228,476,Magnet Pull
+1229,476,Sand Force
+1230,477,Pressure
+1231,477,Frisk
+1232,478,Snow Cloak
+1233,478,Cursed Body
+1234,479,Levitate
+1235,480,Levitate
+1236,481,Levitate
+1237,482,Levitate
+1238,483,Pressure
+1239,483,Telepathy
+1240,484,Pressure
+1241,484,Telepathy
+1242,485,Flash Fire
+1243,485,Flame Body
+1244,486,Slow Start
+1245,487,Pressure
+1246,487,Telepathy
+1247,487,Levitate
+1248,488,Levitate
+1249,489,Hydration
+1250,490,Hydration
+1251,491,Bad Dreams
+1252,492,Natural Cure
+1253,492,Serene Grace
+1254,493,Multitype
+1255,494,Victory Star
+1256,495,Overgrow
+1257,495,Contrary
+1258,496,Overgrow
+1259,496,Contrary
+1260,497,Overgrow
+1261,497,Contrary
+1262,498,Blaze
+1263,498,Thick Fat
+1264,499,Blaze
+1265,499,Thick Fat
+1266,500,Blaze
+1267,500,Reckless
+1268,501,Torrent
+1269,501,Shell Armor
+1270,502,Torrent
+1271,502,Shell Armor
+1272,503,Torrent
+1273,503,Shell Armor
+1274,504,Run Away
+1275,504,Keen Eye
+1276,504,Analytic
+1277,505,Illuminate
+1278,505,Keen Eye
+1279,505,Analytic
+1280,506,Vital Spirit
+1281,506,Pickup
+1282,506,Run Away
+1283,507,Intimidate
+1284,507,Sand Rush
+1285,507,Scrappy
+1286,508,Intimidate
+1287,508,Sand Rush
+1288,508,Scrappy
+1289,509,Limber
+1290,509,Unburden
+1291,509,Prankster
+1292,510,Limber
+1293,510,Unburden
+1294,510,Prankster
+1295,511,Gluttony
+1296,511,Overgrow
+1297,512,Gluttony
+1298,512,Overgrow
+1299,513,Gluttony
+1300,513,Blaze
+1301,514,Gluttony
+1302,514,Blaze
+1303,515,Gluttony
+1304,515,Torrent
+1305,516,Gluttony
+1306,516,Torrent
+1307,517,Forewarn
+1308,517,Synchronize
+1309,517,Telepathy
+1310,518,Forewarn
+1311,518,Synchronize
+1312,518,Telepathy
+1313,519,Big Pecks
+1314,519,Super Luck
+1315,519,Rivalry
+1316,520,Big Pecks
+1317,520,Super Luck
+1318,520,Rivalry
+1319,521,Big Pecks
+1320,521,Super Luck
+1321,521,Rivalry
+1322,522,Lightningrod
+1323,522,Motor Drive
+1324,522,Sap Sipper
+1325,523,Lightningrod
+1326,523,Motor Drive
+1327,523,Sap Sipper
+1328,524,Sturdy
+1329,524,Weak Armor
+1330,524,Sand Force
+1331,525,Sturdy
+1332,525,Weak Armor
+1333,525,Sand Force
+1334,526,Sturdy
+1335,526,Sand Stream
+1336,526,Sand Force
+1337,527,Unaware
+1338,527,Klutz
+1339,527,Simple
+1340,528,Unaware
+1341,528,Klutz
+1342,528,Simple
+1343,529,Sand Rush
+1344,529,Sand Force
+1345,529,Mold Breaker
+1346,530,Sand Rush
+1347,530,Sand Force
+1348,530,Mold Breaker
+1349,531,Healer
+1350,531,Regenerator
+1351,531,Klutz
+1352,532,Guts
+1353,532,Sheer Force
+1354,532,Iron Fist
+1355,533,Guts
+1356,533,Sheer Force
+1357,533,Iron Fist
+1358,534,Guts
+1359,534,Sheer Force
+1360,534,Iron Fist
+1361,535,Swift Swim
+1362,535,Hydration
+1363,535,Water Absorb
+1364,536,Swift Swim
+1365,536,Hydration
+1366,536,Water Absorb
+1367,537,Swift Swim
+1368,537,Poison Touch
+1369,537,Water Absorb
+1370,538,Guts
+1371,538,Inner Focus
+1372,538,Mold Breaker
+1373,539,Sturdy
+1374,539,Inner Focus
+1375,539,Mold Breaker
+1376,540,Swarm
+1377,540,Chlorophyll
+1378,540,Overcoat
+1379,541,Leaf Guard
+1380,541,Chlorophyll
+1381,541,Overcoat
+1382,542,Swarm
+1383,542,Chlorophyll
+1384,542,Overcoat
+1385,543,Poison Point
+1386,543,Swarm
+1387,543,Speed Boost
+1388,544,Poison Point
+1389,544,Swarm
+1390,544,Speed Boost
+1391,545,Poison Point
+1392,545,Swarm
+1393,545,Speed Boost
+1394,546,Prankster
+1395,546,Infiltrator
+1396,546,Chlorophyll
+1397,547,Prankster
+1398,547,Infiltrator
+1399,547,Chlorophyll
+1400,548,Chlorophyll
+1401,548,Own Tempo
+1402,548,Leaf Guard
+1403,549,Chlorophyll
+1404,549,Own Tempo
+1405,549,Leaf Guard
+1406,550,Reckless
+1407,550,Rock Head
+1408,550,Adaptability
+1409,550,Mold Breaker
+1410,551,Intimidate
+1411,551,Moxie
+1412,551,Anger Point
+1413,552,Intimidate
+1414,552,Moxie
+1415,552,Anger Point
+1416,553,Intimidate
+1417,553,Moxie
+1418,553,Anger Point
+1419,554,Hustle
+1420,554,Inner Focus
+1421,555,Sheer Force
+1422,555,Zen Mode
+1423,556,Water Absorb
+1424,556,Chlorophyll
+1425,556,Storm Drain
+1426,557,Sturdy
+1427,557,Shell Armor
+1428,557,Weak Armor
+1429,558,Sturdy
+1430,558,Shell Armor
+1431,558,Weak Armor
+1432,559,Shed Skin
+1433,559,Moxie
+1434,559,Intimidate
+1435,560,Shed Skin
+1436,560,Moxie
+1437,560,Intimidate
+1438,561,Wonder Skin 
+1439,561,Magic Guard
+1440,561,Tinted Lens
+1441,562,Mummy
+1442,563,Mummy
+1443,564,Solid Rock
+1444,564,Sturdy
+1445,564,Swift Swim
+1446,565,Solid Rock
+1447,565,Sturdy
+1448,565,Swift Swim
+1449,566,Defeatist
+1450,567,Defeatist
+1451,568,Stench
+1452,568,Sticky Hold
+1453,568,Aftermath
+1454,569,Stench
+1455,569,Weak Armor
+1456,569,Aftermath
+1457,570,Illusion
+1458,571,Illusion
+1459,572,Cute Charm
+1460,572,Technician
+1461,572,Skill Link
+1462,573,Cute Charm
+1463,573,Technician
+1464,573,Skill Link
+1465,574,Frisk
+1466,574,Competitive
+1467,574,Shadow Tag
+1468,575,Frisk
+1469,575,Competitive
+1470,575,Shadow Tag
+1471,576,Frisk
+1472,576,Competitive
+1473,576,Shadow Tag
+1474,577,Overcoat
+1475,577,Magic Guard
+1476,577,Regenerator
+1477,578,Overcoat
+1478,578,Magic Guard
+1479,578,Regenerator
+1480,579,Overcoat
+1481,579,Magic Guard
+1482,579,Regenerator
+1483,580,Keen Eye
+1484,580,Big Pecks
+1485,580,Hydration
+1486,581,Keen Eye
+1487,581,Big Pecks
+1488,581,Hydration
+1489,582,Ice Body
+1490,582,Snow Cloak
+1491,582,Weak Armor
+1492,583,Ice Body
+1493,583,Snow Cloak
+1494,583,Weak Armor
+1495,584,Ice Body
+1496,584,Snow Warning
+1497,584,Weak Armor
+1498,585,Chlorophyll
+1499,585,Sap Sipper
+1500,585,Serene Grace
+1501,586,Chlorophyll
+1502,586,Sap Sipper
+1503,586,Serene Grace
+1504,587,Static
+1505,587,Motor Drive
+1506,588,Swarm
+1507,588,Shed Skin
+1508,588,No Guard
+1509,589,Swarm
+1510,589,Shell Armor
+1511,589,Overcoat
+1512,590,Effect Spore
+1513,590,Regenerator
+1514,591,Effect Spore
+1515,591,Regenerator
+1516,592,Water Absorb
+1517,592,Cursed Body
+1518,592,Damp
+1519,593,Water Absorb
+1520,593,Cursed Body
+1521,593,Damp
+1522,594,Healer
+1523,594,Hydration
+1524,594,Regenerator
+1525,595,Compoundeyes
+1526,595,Unnerve
+1527,595,Swarm
+1528,596,Compoundeyes
+1529,596,Unnerve
+1530,596,Swarm
+1531,597,Iron Barbs
+1532,598,Iron Barbs
+1533,598,Anticipation
+1534,599,Plus
+1535,599,Minus
+1536,599,Clear Body
+1537,600,Plus
+1538,600,Minus
+1539,600,Clear Body
+1540,601,Plus
+1541,601,Minus
+1542,601,Clear Body
+1543,602,Levitate
+1544,603,Levitate
+1545,604,Levitate
+1546,605,Telepathy
+1547,605,Synchronize
+1548,605,Analytic
+1549,606,Telepathy
+1550,606,Synchronize
+1551,606,Analytic
+1552,607,Flash Fire
+1553,607,Flame Body
+1554,607,Infiltrator
+1555,608,Flash Fire
+1556,608,Flame Body
+1557,608,Infiltrator
+1558,609,Flash Fire
+1559,609,Flame Body
+1560,609,Infiltrator
+1561,610,Rivalry
+1562,610,Mold Breaker
+1563,610,Unnerve
+1564,611,Rivalry
+1565,611,Mold Breaker
+1566,611,Unnerve
+1567,612,Rivalry
+1568,612,Mold Breaker
+1569,612,Unnerve
+1570,613,Snow Cloak
+1571,613,Slush Rush
+1572,613,Rattled
+1573,614,Snow Cloak
+1574,614,Slush Rush
+1575,614,Swift Swim
+1576,615,Levitate
+1577,616,Hydration
+1578,616,Shell Armor
+1579,616,Overcoat
+1580,617,Hydration
+1581,617,Sticky Hold
+1582,617,Unburden
+1583,618,Static
+1584,618,Limber
+1585,618,Sand Veil
+1586,619,Inner Focus
+1587,619,Regenerator
+1588,619,Reckless
+1589,620,Inner Focus
+1590,620,Regenerator
+1591,620,Reckless
+1592,621,Rough Skin
+1593,621,Sheer Force
+1594,621,Mold Breaker
+1595,622,Iron Fist
+1596,622,Klutz
+1597,622,No Guard
+1598,623,Iron Fist
+1599,623,Klutz
+1600,623,No Guard
+1601,624,Defiant
+1602,624,Inner Focus
+1603,624,Pressure
+1604,625,Defiant
+1605,625,Inner Focus
+1606,625,Pressure
+1607,626,Reckless
+1608,626,Sap Sipper
+1609,626,Soundproof
+1610,627,Keen Eye
+1611,627,Sheer Force
+1612,627,Hustle
+1613,628,Keen Eye
+1614,628,Sheer Force
+1615,628,Defiant
+1616,629,Big Pecks
+1617,629,Overcoat
+1618,629,Weak Armor
+1619,630,Big Pecks
+1620,630,Overcoat
+1621,630,Weak Armor
+1622,631,Gluttony
+1623,631,Flash Fire
+1624,631,White Smoke
+1625,632,Swarm
+1626,632,Hustle
+1627,632,Truant
+1628,633,Hustle
+1629,634,Hustle
+1630,635,Levitate
+1631,636,Flame Body
+1632,636,Swarm
+1633,637,Flame Body
+1634,637,Swarm
+1635,638,Justified
+1636,639,Justified
+1637,640,Justified
+1638,641,Prankster
+1639,641,Defiant
+1640,641,Regenerator
+1641,642,Prankster
+1642,642,Defiant
+1643,642,Volt Absorb
+1644,643,Turboblaze
+1645,644,Teravolt
+1646,645,Sand Force
+1647,645,Sheer Force
+1648,645,Intimidate
+1649,646,Pressure
+1650,646,Teravolt
+1651,646,Turboblaze
+1652,647,Justified
+1653,648,Serene Grace
+1654,649,Download
+1655,650,Overgrow
+1656,650,Bulletproof
+1657,651,Overgrow
+1658,651,Bulletproof
+1659,652,Overgrow
+1660,652,Bulletproof
+1661,653,Blaze
+1662,653,Magician
+1663,654,Blaze
+1664,654,Magician
+1665,655,Blaze
+1666,655,Magician
+1667,656,Torrent
+1668,656,Protean
+1669,657,Torrent
+1670,657,Protean
+1671,658,Torrent
+1672,658,Protean
+1673,658,Battle Bond
+1674,659,Pickup
+1675,659,Cheek Pouch
+1676,659,Huge Power
+1677,660,Pickup
+1678,660,Cheek Pouch
+1679,660,Huge Power
+1680,661,Big Pecks
+1681,661,Gale Wings
+1682,662,Flame Body
+1683,662,Gale Wings
+1684,663,Flame Body
+1685,663,Gale Wings
+1686,664,Shield Dust
+1687,664,Compoundeyes
+1688,664,Friend Guard
+1689,665,Shed Skin
+1690,665,Friend Guard
+1691,666,Shield Dust
+1692,666,Compoundeyes
+1693,666,Friend Guard
+1694,667,Rivalry
+1695,667,Unnerve
+1696,667,Moxie
+1697,668,Rivalry
+1698,668,Unnerve
+1699,668,Moxie
+1700,669,Flower Veil
+1701,669,Symbiosis
+1702,670,Flower Veil
+1703,670,Symbiosis
+1704,671,Flower Veil
+1705,671,Symbiosis
+1706,672,Sap Sipper
+1707,672,Grass Pelt
+1708,673,Sap Sipper
+1709,673,Grass Pelt
+1710,674,Iron Fist
+1711,674,Mold Breaker
+1712,674,Scrappy
+1713,675,Iron Fist
+1714,675,Mold Breaker
+1715,675,Scrappy
+1716,676,Fur Coat
+1717,677,Keen Eye
+1718,677,Infiltrator
+1719,677,Own Tempo
+1720,678,Keen Eye
+1721,678,Infiltrator
+1722,678,Prankster
+1723,678,Competitive
+1724,679,No Guard
+1725,680,No Guard
+1726,681,Stance Change
+1727,682,Healer
+1728,682,Aroma Veil
+1729,683,Healer
+1730,683,Aroma Veil
+1731,684,Sweet Veil
+1732,684,Unburden
+1733,685,Sweet Veil
+1734,685,Unburden
+1735,686,Contrary
+1736,686,Suction Cups
+1737,686,Infiltrator
+1738,687,Contrary
+1739,687,Suction Cups
+1740,687,Infiltrator
+1741,688,Tough Claws
+1742,688,Sniper
+1743,688,Pickpocket
+1744,689,Tough Claws
+1745,689,Sniper
+1746,689,Pickpocket
+1747,690,Poison Point
+1748,690,Poison Touch
+1749,690,Adaptability
+1750,691,Poison Point
+1751,691,Poison Touch
+1752,691,Adaptability
+1753,692,Mega Launcher
+1754,693,Mega Launcher
+1755,694,Dry Skin
+1756,694,Sand Veil
+1757,694,Solar Power
+1758,695,Dry Skin
+1759,695,Sand Veil
+1760,695,Solar Power
+1761,696,Strong Jaw
+1762,696,Sturdy
+1763,697,Strong Jaw
+1764,697,Rock Head
+1765,698,Refrigerate
+1766,698,Snow Warning
+1767,699,Refrigerate
+1768,699,Snow Warning
+1769,700,Cute Charm
+1770,700,Pixilate
+1771,701,Limber
+1772,701,Unburden
+1773,701,Mold Breaker
+1774,702,Cheek Pouch
+1775,702,Pickup
+1776,702,Plus
+1777,703,Clear Body
+1778,703,Sturdy
+1779,704,Sap Sipper
+1780,704,Hydration
+1781,704,Gooey
+1782,705,Sap Sipper
+1783,705,Hydration
+1784,705,Gooey
+1785,706,Sap Sipper
+1786,706,Hydration
+1787,706,Gooey
+1788,707,Prankster
+1789,707,Magician
+1790,708,Natural Cure
+1791,708,Frisk
+1792,708,Harvest
+1793,709,Natural Cure
+1794,709,Frisk
+1795,709,Harvest
+1796,710,Pickup
+1797,710,Frisk
+1798,710,Insomnia
+1799,711,Pickup
+1800,711,Frisk
+1801,711,Insomnia
+1802,712,Own Tempo
+1803,712,Ice Body
+1804,712,Sturdy
+1805,713,Own Tempo
+1806,713,Ice Body
+1807,713,Sturdy
+1808,714,Frisk
+1809,714,Infiltrator
+1810,714,Telepathy
+1811,715,Frisk
+1812,715,Infiltrator
+1813,715,Telepathy
+1814,716,Fairy Aura
+1815,717,Dark Aura
+1816,718,Aura Break
+1817,718,Power Construct
+1818,719,Clear Body
+1819,720,Magician
+1820,721,Water Absorb
+1821,722,Overgrow
+1822,722,Long Reach
+1823,723,Overgrow
+1824,723,Long Reach
+1825,724,Overgrow
+1826,724,Long Reach
+1827,725,Blaze
+1828,725,Intimidate
+1829,726,Blaze
+1830,726,Intimidate
+1831,727,Blaze
+1832,727,Intimidate
+1833,728,Torrent
+1834,728,Liquid Voice
+1835,729,Torrent
+1836,729,Liquid Voice
+1837,730,Torrent
+1838,730,Liquid Voice
+1839,731,Keen Eye
+1840,731,Skill Link
+1841,731,Pickup
+1842,732,Keen Eye
+1843,732,Skill Link
+1844,732,Pickup
+1845,733,Keen Eye
+1846,733,Skill Link
+1847,733,Sheer Force
+1848,734,Stakeout
+1849,734,Strong Jaw
+1850,734,Adaptability
+1851,735,Stakeout
+1852,735,Strong Jaw
+1853,735,Adaptability
+1854,736,Swarm
+1855,737,Battery
+1856,738,Levitate
+1857,739,Hyper Cutter
+1858,739,Iron Fist
+1859,739,Anger Point
+1860,740,Hyper Cutter
+1861,740,Iron Fist
+1862,740,Anger Point
+1863,741,Dancer
+1864,742,Honey Gather
+1865,742,Shield Dust
+1866,742,Sweet Veil
+1867,743,Honey Gather
+1868,743,Shield Dust
+1869,743,Sweet Veil
+1870,744,Keen Eye
+1871,744,Vital Spirit
+1872,744,Steadfast
+1873,745,Keen Eye
+1874,745,Sand Rush
+1875,745,Steadfast
+1876,745,Keen Eye
+1877,745,Vital Spirit
+1878,745,No Guard
+1879,746,Schooling
+1880,747,Merciless
+1881,747,Limber
+1882,747,Regenerator
+1883,748,Merciless
+1884,748,Limber
+1885,748,Regenerator
+1886,749,Own Tempo
+1887,749,Stamina
+1888,749,Inner Focus
+1889,750,Own Tempo
+1890,750,Stamina
+1891,750,Inner Focus
+1892,751,Water Bubble
+1893,751,Water Absorb
+1894,752,Water Bubble
+1895,752,Water Absorb
+1896,753,Leaf Guard
+1897,753,Contrary
+1898,754,Leaf Guard
+1899,754,Contrary
+1900,755,Illuminate
+1901,755,Effect Spore
+1902,755,Rain Dish
+1903,756,Illuminate
+1904,756,Effect Spore
+1905,756,Rain Dish
+1906,757,Corrosion
+1907,757,Oblivious
+1908,758,Corrosion
+1909,758,Oblivious
+1910,759,Fluffy
+1911,759,Klutz
+1912,759,Cute Charm
+1913,760,Fluffy
+1914,760,Klutz
+1915,760,Unnerve
+1916,761,Leaf Guard
+1917,761,Oblivious
+1918,761,Sweet Veil
+1919,762,Leaf Guard
+1920,762,Oblivious
+1921,762,Sweet Veil
+1922,763,Leaf Guard
+1923,763,Queenly Majesty
+1924,763,Sweet Veil
+1925,764,Flower Veil
+1926,764,Triage
+1927,764,Natural Cure
+1928,765,Inner Focus
+1929,765,Telepathy
+1930,765,Symbiosis
+1931,766,Receiver
+1932,766,Defiant
+1933,767,Wimp Out
+1934,768,Emergency Exit
+1935,769,Water Compaction
+1936,769,Sand Veil
+1937,770,Water Compaction
+1938,770,Sand Veil
+1939,771,Innards Out
+1940,771,Unaware
+1941,772,Battle Armor
+1942,773,RKS System
+1943,774,Shields Down
+1944,775,Comatose
+1945,776,Shell Armor
+1946,777,Iron Barbs
+1947,777,Lightningrod
+1948,777,Sturdy
+1949,778,Disguise
+1950,779,Dazzling
+1951,779,Strong Jaw
+1952,779,Wonder Skin 
+1953,780,Berserk
+1954,780,Sap Sipper
+1955,780,Cloud Nine
+1956,781,Steelworker
+1957,782,Bulletproof
+1958,782,Soundproof
+1959,782,Overcoat
+1960,783,Bulletproof
+1961,783,Soundproof
+1962,783,Overcoat
+1963,784,Bulletproof
+1964,784,Soundproof
+1965,784,Overcoat
+1966,785,Electric Surge
+1967,785,Telepathy
+1968,786,Psychic Surge
+1969,786,Telepathy
+1970,787,Grassy Surge
+1971,787,Telepathy
+1972,788,Misty Surge
+1973,788,Telepathy
+1974,789,Unaware
+1975,790,Sturdy
+1976,791,Full Metal Body
+1977,792,Shadow Shield
+1978,793,Beast Boost
+1979,794,Beast Boost
+1980,795,Beast Boost
+1981,796,Beast Boost
+1982,797,Beast Boost
+1983,798,Beast Boost
+1984,799,Beast Boost
+1985,800,Prism Armor
+1986,801,Soul-Heart
