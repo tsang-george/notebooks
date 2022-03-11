@@ -1,5 +1,5 @@
 # load track popularity data
-track_pop <- read.csv("C:/Users/iwann/Data Analytics/practice/spotify/new_approach/for R/track_pop.csv", quote="")
+track_pop <- read.csv("C:/your_path/track_pop.csv", quote="")
 
 # Shapiro-Wilk test for normality
 apply(track_pop, 2, shapiro.test)
@@ -34,7 +34,7 @@ dunnTest(track_long$popularity, track_long$category, method = 'bh')
 
 
 # load album popularity data
-album_pop <- read.csv("C:/Users/iwann/Data Analytics/practice/spotify/new_approach/for R/album_pop.csv", quote="")
+album_pop <- read.csv("C:/your_path/album_pop.csv", quote="")
 
 # Shapiro-Wilk test for normality
 apply(album_pop, 2, shapiro.test)
@@ -65,7 +65,7 @@ dunnTest(album_long$popularity, album_long$category, method = 'bh')
 
 
 # load artist popularity data
-artist_pop <- read.csv("C:/Users/iwann/Data Analytics/practice/spotify/new_approach/for R/artist_pop.csv", quote="")
+artist_pop <- read.csv("C:/your_path/artist_pop.csv", quote="")
 
 # Shapiro-Wilk test for normality
 apply(artist_pop, 2, shapiro.test)
