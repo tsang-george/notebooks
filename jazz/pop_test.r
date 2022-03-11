@@ -96,5 +96,3 @@ dunnTest(artist_long$popularity, artist_long$category, method = 'bh')
 
 # p-values of pair no.4 to 9 are way smaller than 0.05
 # Ho that groups in each of those pairs having the same median is rejected
-
-# library: car, tidyr, lattice, psych, cowbell, ggplot2, cowplot, fsa
